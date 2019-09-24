@@ -1,24 +1,6 @@
 # README
+https://guides.spreecommerce.org/developer/tutorials/getting_started_tutorial.html
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample spree installed rails application skeleton
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run Spree 3.7 you need the latest Rails version, 5.2.2.
